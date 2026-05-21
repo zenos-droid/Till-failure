@@ -1,0 +1,6 @@
+{
+  "name": "Till Failure Gym",
+  "description": "A premium, dark-luxury multi-page fitness brand website featuring interactive membership plans, trainer profiles, a working BMI calculator, class schedule, and transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
